@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://squamishcricket.ca/sitemap.xml
