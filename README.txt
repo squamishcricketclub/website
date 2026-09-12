@@ -1,1 +1,1 @@
-Add Board-approved PDF documents here using the filenames linked from governance.html, or update those links.
+Place approved governance PDF files in this folder and link them from governance.html.
